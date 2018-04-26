@@ -1,6 +1,8 @@
 # Corona HTML5 Base64 Plugin
 
-Base64 encoder/decoder plugin for Corona HTML5
+__Base64 encoder/decoder plugin for Corona HTML5__
+
+Built with __[Corona Node Kit](https://develephant.github.io/corona-html5-node-kit-docs/)__.
 
 ## Install
 
